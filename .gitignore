@@ -1,6 +1,8 @@
 .DS_Store
 */.DS_Store
+.vscode
 .ipynb_checkpoints/Lecture2A-part1-checkpoint.ipynb
 .ipynb_checkpoints/Lecture2A-part2-checkpoint.ipynb
 ifq619.code-workspace
-.vscode/settings.json
+.vscode/*
+
