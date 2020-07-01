@@ -4,3 +4,4 @@
 **/.vscode
 ifq619.code-workspace
 .ipynb_checkpoints/**
+data/.ipynb_checkpoints/**
